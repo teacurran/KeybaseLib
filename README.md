@@ -26,6 +26,8 @@ If you have maven installed this is easy.
 to run simply do:
     ./run.sh teacurran
 
+** Update I just re-read the post, it seems this isn't really a complaint at all. He is rightfully saying that if Java can't do #2 here then running it on the command line is a failure since all other languages can run command line apps that can do SSL properly. No arguement here, I'll leave this forked repo for anyone else who is curious. **
+
 __2. https doesn't work with URLConnection:__
 
 For this issue I know it has something to do with the default CA certs that come with java 7 and 8.  
